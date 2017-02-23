@@ -1,9 +1,6 @@
 ======================================================================
 CS 643, Cloud Computing - Fall ‘16 Project-Geolocated Twitter Analysis
-by Sandeep Suresh Gore (UCID: ssg56)
-   Indraneel Kulkarni  (UCID: ik63)
-   Anisha Dhekne       (UCID: aad48)
-   Aman Bhavsar        (UCID: ab786)
+by Indraneel Kulkarni  (UCID: ik63)
 Date: 12/12/2016
 ======================================================================
 
