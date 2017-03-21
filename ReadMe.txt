@@ -1,6 +1,6 @@
 ======================================================================
-CS 643, Cloud Computing - Fall ‘16 Project-Geolocated Twitter Analysis
-by Indraneel Kulkarni  (UCID: ik63)
+CS 643, Cloud Computing - Fall â€˜16 Project-Geolocated Twitter Analysis
+by Anisha Dhekne(UCID: aad48)
 Date: 12/12/2016
 ======================================================================
 
